@@ -24,12 +24,19 @@ Currently focused on **Java, Spring, Kafka, Databases**, and exploring the world
 
 ---
 
-## 📂 Featured Projects  
-- 🔗 **[Sales-Trader Negotiation Platform](#)** – Facilitates bond trading & price negotiations globally  
-- ⚡ **[Batmobil Tool](#)** – Platform modernization & automation initiative  
-- 🤖 **[Test Automation Framework](#)** – Reduced testing cycle from 3 days to 3 hours  
+## 🚀 Featured Projects  
 
-*(Links can be added to repos when made public)*  
+- 📌 [system-design](https://github.com/abhishek-singh-jadaun/system-design)  
+  *System design notes, explanations, and practical scenarios for scalable applications.*  
+
+- 📌 [python-learning](https://github.com/abhishek-singh-jadaun/python-learning)  
+  *Hands-on Python learning journey with OOP, functional programming, and coding patterns.*  
+
+- 📌 [java-coding](https://github.com/abhishek-singh-jadaun/java-coding)  
+  *Java coding exercises, algorithms, and problem-solving practice.*  
+
+- 📌 [notebooks](https://github.com/abhishek-singh-jadaun/notebooks)  
+  *Exploratory Jupyter notebooks for learning and experiments.*  
 
 ---
 
