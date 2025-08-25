@@ -49,8 +49,6 @@ Currently focused on **Java, Spring, Kafka, Databases**, and exploring the world
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-jadaun/)  
-- 🐦 [Twitter](https://twitter.com/) *(optional)*  
-- 🌐 [Portfolio Website](#) *(if you have one)*  
 
 ---
 ✨ _“Clean code, scalable systems, and continuous learning.”_ ✨
