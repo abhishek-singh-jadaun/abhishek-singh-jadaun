@@ -12,7 +12,7 @@ Currently focused on **Java, Spring, Kafka, Databases**, and exploring the world
 - **Frameworks:** Spring Boot, Hibernate  
 - **Messaging:** Apache Kafka  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools & Platforms:** Git, Docker, Kubernetes, OpenRewrite, CI/CD Pipelines  
+- **Tools & Platforms:** Git
 
 ---
 
